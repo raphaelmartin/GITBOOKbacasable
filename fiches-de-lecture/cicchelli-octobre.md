@@ -1,7 +1,6 @@
 ## SAINT-AMAND D., « *Vincenzo Cicchelli et Sylvie Octobre, L’amateur cosmopolite* », Lectures, Reviews, 2017
 
-**thème**: les goûts et imaginaires culturels juvéniles à l'ère de la globalisation.
-
+**thème**: les goûts et imaginaires culturels juvéniles à l'ère de la globalisation.  
 **thèse**: La consommation de biens internationaux n'est pas synonyme d'effet en terme d'ouverture cosmopolite.
 
 En réaction au postulat trop souvent négligé des effets de la circulation transfrontalière croissante des biens culturelles sur les répertoires culturelles des jeunes, OCTOBRE/CICCHELLI ne permettent pourtant pas d'y répondre. Projet "passionnant" de prime abord, l'échantillon peut apparaitre trop hétérogène.
@@ -14,8 +13,7 @@ Mais ça n'enlève rien à l'importance de la réflexion sur la circulation/réc
 
 ## GLEVAREC H., « *Vicenzo CICCHELLI, SYLVIE OCTOBRE, L’Amateur cosmopolite. Goûts et imaginaires culturels juvéniles à l’ère de la globalisation* », Questions de communication, 32 | 2017
 
-**thème**: le "cosmopolitisme esthético-culturel" des jeunes adultes. Cosmopolitisme ici, synonyme d'ouverture d'esprit.
-
+**thème**: le "cosmopolitisme esthético-culturel" des jeunes adultes. Cosmopolitisme ici, synonyme d'ouverture d'esprit.  
 **thèse**: Le néo-cosmopolitisme, différent et succédant à un "cosmopolitisme des élites", manifeste "l'inclusion de l'autre via les consommations".
 
 Le cosmopolitisme e-c existe-t-il a l'issue de l'enquête? Paradoxal en ceci que les résultats tendraient à montrer un profil "d'amateur national" plus que de cosmopolite. Conception "directe" du processus de socialisation: "*les jeunes se socialisent à la différence culturelle*".

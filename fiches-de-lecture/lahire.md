@@ -1,7 +1,6 @@
 # *LAHIRE*, Bernard. « La culture peut-elle mélanger les torchons et les serviettes ? », *Nectart*, vol. 6, no. 1, 2018, pp. 88-96.
 
-**thème**: pratiques culturelles individuelles ; savant/populaire
-
+**thème**: pratiques culturelles individuelles ; savant/populaire  
 **thèse**: A trop se concentrer sur les "propriétés sociales les plus fréquentes des publics", on passe à côté du fait que la frontière entre légitimité/illégitimité culturelle ne sépare pas seulement "statistiquement les classes", mais aussi l'individu de toute classe.
 
 > « *La culture demeure un puissant enjeu de distinction et de légitimité à imposer.* »

@@ -31,8 +31,8 @@ La culture savante tradi a un statut plus marginal qu'avant, la classe sociale r
 
 Mais ce n'est pas parce que la culture "noble" n'est plus aussi dominante qu'avant que l'identification de nouvelles pratiques/préférences distinctives donnent du capital culturel.
 
-Pour qu'une ressource culturelle puisse fonctionner comme "capital" (_BOURDIEU_), elle doit être associée à 3 facteurs:
-1. légitimité. Ecouter "Waka waka" est-il considéré de "bon goût"?
+Pour qu'une ressource culturelle puisse fonctionner comme "capital" (au sens de _BOURDIEU_), elle doit être associée à 3 facteurs:
+1. légitimité. Ecouter "Waka waka" de _Shakira_ peut-il être considéré comme de "bon goût"?
 2. convertibilité. En capital social, économique.
 3. domination. Ressenti comme telle?
 Ca reste possible, mais ça va pas de soi.
